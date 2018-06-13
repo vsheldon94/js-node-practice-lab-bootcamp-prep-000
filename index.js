@@ -10,7 +10,7 @@ console.log("Height:")
 console.log(parseInt(height) + 1)
 
 if (name == "Janet") {
-  console.log("Janet is" height " inches tall")
+  console.log("Janet is").log(height).log( " inches tall")
 } else {
   console.log("expected 'Janet' but got").log(name).log("instead")
 }
