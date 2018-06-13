@@ -12,5 +12,5 @@ console.log(parseInt(height) + 1)
 if (name == "Janet") {
   console.log("Janet is" + height + " inches tall")
 } else {
-  console.log("expected 'Janet' but got" + (name) + "instead")
+  console.log("expected 'Janet' but got" + (name) + " instead")
 }
